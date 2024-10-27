@@ -9,3 +9,5 @@ Currently, two official plugins are available:
 - 
 ![Cart Model Screenshot](https://raw.githubusercontent.com/Iamgagana02/Cart_model_react/master/Screenshot%20(200).png)
 
+this is a sample cart applcation that doing CRUD operation using react hook "useReduce" using spread operation for updating react state. 
+
